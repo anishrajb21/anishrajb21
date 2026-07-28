@@ -10,7 +10,7 @@ Building secure, intelligent, and practical software solutions through Cybersecu
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering Student
-- 🔐 Passionate about Cybersecurity, AI, and Backend Development
+- 🔐 Passionate about Cybersecurity, AI
 - 💻 Building real-world security and automation projects
 - 🌱 Currently learning Blue Team Security, Linux, Docker, Cloud, and Threat Detection
 - 🚀 Aspiring Security Engineer focused on building secure, production-ready applications
@@ -40,26 +40,51 @@ A security monitoring agent that tracks Windows services and processes, detects 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+---
+
+### Scripting
+
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
+
+---
+
+### Cybersecurity Tools
+
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-00457C?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+
+---
+
+### Operating Systems
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+---
+
+
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-### Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+---
 
 ### Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+---
 
 ### Security & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-blue?style=for-the-badge)
+
 
 ### AI & Computer Vision
 
@@ -91,7 +116,7 @@ A security monitoring agent that tracks Windows services and processes, detects 
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/anishrajb21
-- LinkedIn: *(Add your LinkedIn profile)*
+- LinkedIn: www.linkedin.com/in/anish-raj-b-0a91112ba
 
 ---
 
