@@ -94,14 +94,6 @@ A security monitoring agent that tracks Windows services and processes, detects 
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishrajb21&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishrajb21&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Current Focus
 
 - 🛡️ Blue Team Security
