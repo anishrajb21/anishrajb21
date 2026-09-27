@@ -109,9 +109,9 @@ A security monitoring agent that tracks Windows services and processes, detects 
 
 - GitHub: https://github.com/anishrajb21
 - LinkedIn: www.linkedin.com/in/anish-raj-b-0a91112ba
-Leetcode:https://leetcode.com/u/Anish_Raj_B_21/
-codechef:https://www.codechef.com/users/anish_raj_21
-HackerRank:https://www.hackerrank.com/profile/anishrajb21
+- Leetcode:https://leetcode.com/u/Anish_Raj_B_21/
+- codechef:https://www.codechef.com/users/anish_raj_21
+- HackerRank:https://www.hackerrank.com/profile/anishrajb21
 
 ---
 
