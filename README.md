@@ -19,9 +19,6 @@ I build practical systems that combine **security engineering, software developm
 * 🤖 Interested in applying **AI/ML to Cybersecurity**
 * 🚀 Building practical projects to strengthen real-world security engineering skills
 
-### Current Direction
-
-**Cybersecurity → Blue Team → Security Engineering → Advanced Security Operations**
 
 ---
 
