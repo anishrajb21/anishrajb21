@@ -283,7 +283,7 @@ AI & Security
 
 # 📫 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/anish-raj-b-0a91112ba">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
