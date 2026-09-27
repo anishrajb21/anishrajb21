@@ -283,11 +283,7 @@ AI & Security
 
 # 📫 Connect With Me
 
-<p align="left">
-
-<a href="https://github.com/anishrajb21">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/anish-raj-b-0a91112ba">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
