@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish Raj</h1>
-<h3 align="center">Computer Science Engineering Student | Cybersecurity Enthusiast | AI Developer</h3>
+<h3 align="center">Computer Science Engineering Student | Cybersecurity Enthusiast | Python FullStack Developer</h3>
 
 <p align="center">
 Building secure, intelligent, and practical software solutions through Cybersecurity and Artificial Intelligence.
