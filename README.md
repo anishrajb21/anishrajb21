@@ -280,19 +280,6 @@ AI & Security
 
 ---
 
-# 🎯 2026 Goals
-
-* Build production-oriented cybersecurity projects
-* Strengthen Blue Team and SOC fundamentals
-* Improve Linux and Windows security knowledge
-* Develop practical threat detection skills
-* Automate security workflows using Python
-* Learn container and cloud security
-* Contribute to open-source security projects
-* Build a strong cybersecurity portfolio
-
----
-
 # 📫 Connect With Me
 
 <p align="left">
