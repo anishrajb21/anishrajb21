@@ -1,310 +1,318 @@
-<div align="center">
-
 # 👋 Hi, I'm Anish Raj
 
-### Cybersecurity Engineer in Progress · Python Developer · Security-Focused Software Engineer
+### Cybersecurity Engineer in Progress | Python Developer | Security-Focused Software Engineer
 
-Computer Science & Engineering student focused on **Cybersecurity, Blue Team Operations, Security Automation, and Secure Software Development.**
+I’m a Computer Science Engineering student focused on **Cybersecurity, Blue Team Operations, Secure Software Development, and Security Automation**.
 
-I build practical security-focused applications using **Python, networking, Linux, APIs, and modern development tools.**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
-
-</div>
+I build practical systems that combine **security engineering, software development, networking, automation, and AI** to solve real-world problems.
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science & Engineering student** building my skills toward a career in cybersecurity.
+* 🎓 Computer Science & Engineering student
+* 🔐 Focused on **Cybersecurity and Defensive Security**
+* 🛡️ Learning **Blue Team, Threat Detection, Network Security, and Incident Response**
+* 🐍 Building security tools and automation with **Python**
+* 🌐 Working with **Networking, Linux, Windows, and security tooling**
+* ⚙️ Exploring **Docker, Cloud, APIs, and secure application development**
+* 🤖 Interested in applying **AI/ML to Cybersecurity**
+* 🚀 Building practical projects to strengthen real-world security engineering skills
 
-My current focus is on understanding how systems work, how attacks happen, and how to build software that can **detect, monitor, automate, and respond to security problems**.
-
-* 🔐 Cybersecurity & Defensive Security
-* 🛡️ Blue Team & Security Monitoring
-* 🌐 Networking & Network Security
-* 🐍 Python Security Automation
-* 🐧 Linux & Windows
-* ⚙️ APIs, Docker & Cloud Fundamentals
-* 💻 Secure Application Development
-* 🤖 AI/ML applications in Cybersecurity
 
 ---
 
-# 🛡️ Cybersecurity
+# 🛡️ Cybersecurity Focus
 
-| Area                   | Focus                                                 |
-| ---------------------- | ----------------------------------------------------- |
-| 🌐 Network Security    | TCP/IP · OSI · DNS · HTTP/HTTPS · Network Scanning    |
-| 🔎 Security Monitoring | Log Analysis · Threat Detection · Windows Monitoring  |
-| 🧰 Security Tools      | Nmap · Wireshark · Burp Suite                         |
-| 💻 Operating Systems   | Linux · Windows · Kali Linux                          |
-| ⚡ Scripting            | Python · Bash · PowerShell                            |
-| 🛡️ Defensive Security | Blue Team · Detection Engineering · Incident Response |
-| 🔐 Secure Development  | Authentication · Encryption · Secure APIs             |
-| ☁️ Infrastructure      | Docker · Cloud · Container Security                   |
+My current cybersecurity learning areas include:
+
+| Area                | Technologies / Concepts                            |
+| ------------------- | -------------------------------------------------- |
+| Network Security    | TCP/IP, OSI, DNS, HTTP/HTTPS, Network Scanning     |
+| Security Monitoring | Log Analysis, Threat Detection, Windows Monitoring |
+| Network Tools       | Nmap, Wireshark                                    |
+| Web Security        | Burp Suite, HTTP Security                          |
+| Operating Systems   | Linux, Windows, Kali Linux                         |
+| Scripting           | Python, Bash, PowerShell                           |
+| Security Automation | Python, APIs, Automation                           |
+| Defensive Security  | Blue Team Fundamentals, Detection Engineering      |
+| Infrastructure      | Docker, Cloud Fundamentals                         |
+| Secure Development  | Authentication, Encryption, Secure APIs            |
 
 ---
 
 # 🚀 Featured Projects
 
-### 🔍 Context-Driven OCR Error Detection
+## 🔍 Context-Driven OCR Error Detection
 
-AI-powered OCR validation system designed to identify and review errors in scanned government documents.
+An AI-powered OCR validation system designed to identify and review OCR errors in government documents.
 
-<div align="center">
+### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,opencv,pytorch,fastapi,react,postgresql" />
+`Python` `OpenCV` `Tesseract` `BERT` `Transformers` `FastAPI` `React` `PostgreSQL`
 
-</div>
-
-**Key Features**
+### Key Capabilities
 
 * OCR text extraction
 * Context-aware error detection
 * AI-assisted validation
 * Document processing
 * REST API architecture
-* React interface
+* React-based interface
 * PostgreSQL data management
 
 ---
 
-### 🌐 Network Port Scanner
+## 🌐 Network Port Scanner
 
-Web-based network scanning platform for discovering open ports and identifying network services.
+A web-based network scanning platform for discovering open ports and identifying network services.
 
-<div align="center">
+### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,react" />
+`Python` `Nmap` `FastAPI` `React`
 
-<br>
-
-`Nmap`
-
-</div>
-
-**Key Features**
+### Key Capabilities
 
 * Port scanning
 * Service detection
 * Network reconnaissance
 * Scan history
 * REST API integration
-* Automated Nmap execution
 * Web-based security interface
+* Automated Nmap execution
 
 > Built for authorized security testing and network administration.
 
 ---
 
-### 🔐 Secure Password Manager
+## 🔐 Secure Password Manager
 
-Security-focused password management application designed around protected credential storage.
+A security-focused password management application designed around protected credential storage.
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-</div>
-
-**Focus**
-
-`Cryptography` · `Authentication` · `Secure Storage`
-
-**Key Features**
+### Key Capabilities
 
 * Encrypted credential storage
 * Password generation
 * Authentication
-* Secure storage architecture
-* Security-focused application design
+* Secure local/cloud storage
+* Security-focused application architecture
+
+### Focus Areas
+
+`Cryptography` `Authentication` `Secure Storage` `Python`
 
 ---
 
-### 🛡️ Windows Service & Process Monitoring Agent
+## 🛡️ Windows Service & Process Monitoring Agent
 
-Windows monitoring agent designed to provide visibility into running processes and system services.
+A Windows security monitoring agent that observes system services and processes to provide visibility into system activity.
 
-<div align="center">
+### Key Capabilities
 
-<img src="https://skillicons.dev/icons?i=python,powershell,windows" />
-
-</div>
-
-**Key Features**
-
-* Process monitoring
-* Windows service monitoring
+* Windows process monitoring
+* Service monitoring
 * Suspicious activity detection
-* System information collection
+* Real-time system information
 * Security event analysis
 * Automated monitoring
+
+### Focus Areas
+
+`Python` `Windows` `Process Monitoring` `Security Automation`
 
 ---
 
 # 🧰 Technical Stack
 
-<div align="center">
-
 ### Programming
 
-<img src="https://skillicons.dev/icons?i=python,javascript" />
-
-### Cybersecurity
-
-<img src="https://skillicons.dev/icons?i=linux,kali" />
-
-<br><br>
-
-`Nmap` · `Wireshark` · `Burp Suite`
-
-### Backend & APIs
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ### Scripting
 
-<img src="https://skillicons.dev/icons?i=bash,powershell" />
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
+
+### Cybersecurity
+
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+
+### Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
+
+### Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+### Databases
+
+### Databases & SQL
+
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.w3schools.com/sql/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
 
 ### DevOps & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-### AI / Machine Learning
+### AI / Computer Vision
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
-
-</div>
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 
 ---
 
 # 🧠 Areas of Interest
 
-<div align="center">
+```text
+Cybersecurity
+├── Blue Team
+├── Network Security
+├── Threat Detection
+├── Security Monitoring
+├── Incident Response
+└── Security Automation
 
-|   🔐 Cybersecurity  | 💻 Software Engineering |  ☁️ Infrastructure |   🤖 AI & Security   |
-| :-----------------: | :---------------------: | :----------------: | :------------------: |
-|      Blue Team      |          Python         |        Linux       |   Machine Learning   |
-|   Network Security  |         FastAPI         |       Windows      |    Computer Vision   |
-|   Threat Detection  |        REST APIs        |       Docker       |          NLP         |
-| Security Monitoring |          React          |        Cloud       | AI-assisted Security |
-|  Incident Response  |        Databases        | Container Security |  Security Automation |
+Software Engineering
+├── Python
+├── REST APIs
+├── FastAPI
+├── React
+├── Databases
+└── Secure Application Development
 
-</div>
+Infrastructure
+├── Linux
+├── Windows
+├── Docker
+└── Cloud
+
+AI & Security
+├── Machine Learning
+├── Computer Vision
+├── NLP
+└── AI-assisted Security
+```
 
 ---
 
 # 📚 Currently Learning
 
-<div align="center">
-
 ### 🛡️ Cybersecurity
 
-<img src="https://skillicons.dev/icons?i=linux" />
-
-`Blue Team` · `Security Monitoring` · `Network Security` · `Threat Detection` · `Incident Response` · `Log Analysis`
+* Blue Team fundamentals
+* Security monitoring
+* Network security
+* Threat detection
+* Incident response
+* Log analysis
+* Security automation
 
 ### 🐧 Systems
 
-<img src="https://skillicons.dev/icons?i=linux,bash,powershell,windows" />
-
-`Linux Administration` · `Windows Internals` · `Process Monitoring`
+* Linux administration
+* Windows internals
+* Bash scripting
+* PowerShell
+* Process and service monitoring
 
 ### ☁️ Infrastructure
 
-<img src="https://skillicons.dev/icons?i=docker,aws" />
-
-`Cloud Fundamentals` · `Secure Deployment` · `Container Security`
+* Docker
+* Cloud fundamentals
+* Secure deployment
+* Container security
 
 ### 💻 Development
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,javascript,react,mysql,git,github" />
-
-`Python` · `FastAPI` · `JavaScript` · `React` · `SQL` · `REST APIs` · `Git/GitHub`
-
-</div>
+* Python
+* FastAPI
+* JavaScript
+* React
+* SQL
+* REST APIs
+* Git/GitHub
 
 ---
 
-# 💻 Coding Practice
+# 🏆 Competitive Programming & Practice
 
-<div align="center">
+### 💻 LeetCode
 
-<a href="https://leetcode.com/">
-<img src="https://skillicons.dev/icons?i=leetcode" />
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/Anish_Raj_B_21/)
+
+### 🧑‍💻 CodeChef
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge\&logo=codechef)](https://www.codechef.com/users/anish_raj_21)
+
+### 🏅 HackerRank
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge\&logo=hackerrank\&logoColor=white)](https://www.hackerrank.com/profile/anishrajb21)
+
+---
+
+# 📂 What You'll Find on My GitHub
+
+```text
+🔐 Cybersecurity Projects
+🐍 Python Security Tools
+🌐 Network Security Projects
+🛡️ Defensive Security Experiments
+🤖 AI/ML Projects
+💻 Full-Stack Applications
+🐧 Linux & Automation Scripts
+☁️ Cloud & Docker Projects
+📚 Learning Notes & Labs
+```
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/anish-raj-b-0a91112ba">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-  
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge\&logo=codechef\&logoColor=white)](https://www.codechef.com/)
-
-  
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge\&logo=hackerrank\&logoColor=black)](https://www.hackerrank.com/)
-
-</div>
-
----
-
-# 📂 What You'll Find Here
-
-<div align="center">
-
-🔐 **Cybersecurity Projects**
-🐍 **Python Security Tools**
-🌐 **Network Security Labs**
-🛡️ **Defensive Security Experiments**
-🤖 **AI/ML Projects**
-💻 **Full-Stack Applications**
-🐧 **Linux & Automation Scripts**
-☁️ **Docker & Cloud Projects**
-📚 **Security Notes & Labs**
-
-</div>
-
----
-
-# 📫 Connect
-
-<div align="center">
-
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<a href="https://leetcode.com/u/Anish_Raj_B_21/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-   
-
-<a href="https://linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<a href="https://www.codechef.com/users/anish_raj_21">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
-</div>
+<a href="https://www.hackerrank.com/profile/anishrajb21">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
 
 ---
-
-<div align="center">
 
 ## 🔐 Security Philosophy
 
-**Build securely. Monitor continuously. Automate intelligently.**
+> **Build securely. Monitor continuously. Automate intelligently.**
 
-Security should be considered throughout the lifecycle of a system —
-from **development and deployment to monitoring and incident response.**
+Security is not only about protecting systems after they are built — it also involves designing software, infrastructure, and processes with security in mind from the beginning.
 
-<br>
+---
 
-**Cybersecurity · Software Engineering · Automation · AI**
-
-</div>
+<p align="center">
+  <b>Cybersecurity • Software Engineering • Automation • AI</b>
+</p>
