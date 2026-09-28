@@ -12,7 +12,6 @@ I build practical security-focused applications using **Python, networking, Linu
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://python.org/)
 
 </div>
 
@@ -35,9 +34,9 @@ My current focus is on understanding how systems work, how attacks happen, and h
 
 ---
 
-## 🛡️ Cybersecurity
+# 🛡️ Cybersecurity
 
-| Area                   | Technologies / Concepts                               |
+| Area                   | Focus                                                 |
 | ---------------------- | ----------------------------------------------------- |
 | 🌐 Network Security    | TCP/IP · OSI · DNS · HTTP/HTTPS · Network Scanning    |
 | 🔎 Security Monitoring | Log Analysis · Threat Detection · Windows Monitoring  |
@@ -46,7 +45,7 @@ My current focus is on understanding how systems work, how attacks happen, and h
 | ⚡ Scripting            | Python · Bash · PowerShell                            |
 | 🛡️ Defensive Security | Blue Team · Detection Engineering · Incident Response |
 | 🔐 Secure Development  | Authentication · Encryption · Secure APIs             |
-| ☁️ Infrastructure      | Docker · Cloud Fundamentals · Container Security      |
+| ☁️ Infrastructure      | Docker · Cloud · Container Security                   |
 
 ---
 
@@ -56,18 +55,20 @@ My current focus is on understanding how systems work, how attacks happen, and h
 
 AI-powered OCR validation system designed to identify and review errors in scanned government documents.
 
-**Stack**
+<div align="center">
 
-`Python` `OpenCV` `Tesseract` `BERT` `Transformers` `FastAPI` `React` `PostgreSQL`
+<img src="https://skillicons.dev/icons?i=python,opencv,pytorch,fastapi,react,postgresql" />
 
-**What it does**
+</div>
+
+**Key Features**
 
 * OCR text extraction
 * Context-aware error detection
 * AI-assisted validation
 * Document processing
 * REST API architecture
-* React-based interface
+* React interface
 * PostgreSQL data management
 
 ---
@@ -76,11 +77,17 @@ AI-powered OCR validation system designed to identify and review errors in scann
 
 Web-based network scanning platform for discovering open ports and identifying network services.
 
-**Stack**
+<div align="center">
 
-`Python` `Nmap` `FastAPI` `React`
+<img src="https://skillicons.dev/icons?i=python,fastapi,react" />
 
-**Features**
+<br>
+
+`Nmap`
+
+</div>
+
+**Key Features**
 
 * Port scanning
 * Service detection
@@ -98,11 +105,17 @@ Web-based network scanning platform for discovering open ports and identifying n
 
 Security-focused password management application designed around protected credential storage.
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+</div>
+
 **Focus**
 
-`Python` `Cryptography` `Authentication` `Secure Storage`
+`Cryptography` · `Authentication` · `Secure Storage`
 
-**Features**
+**Key Features**
 
 * Encrypted credential storage
 * Password generation
@@ -116,11 +129,13 @@ Security-focused password management application designed around protected crede
 
 Windows monitoring agent designed to provide visibility into running processes and system services.
 
-**Focus**
+<div align="center">
 
-`Python` `Windows` `Process Monitoring` `Security Automation`
+<img src="https://skillicons.dev/icons?i=python,powershell,windows" />
 
-**Features**
+</div>
+
+**Key Features**
 
 * Process monitoring
 * Windows service monitoring
@@ -137,39 +152,39 @@ Windows monitoring agent designed to provide visibility into running processes a
 
 ### Programming
 
-`Python` `JavaScript`
+<img src="https://skillicons.dev/icons?i=python,javascript" />
 
 ### Cybersecurity
 
-`Nmap` `Wireshark` `Burp Suite`
+<img src="https://skillicons.dev/icons?i=linux,kali" />
 
-### Systems
+<br><br>
 
-`Linux` `Windows` `Kali Linux`
+`Nmap` · `Wireshark` · `Burp Suite`
 
-### Backend
+### Backend & APIs
 
-`FastAPI` `REST APIs`
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
 
 ### Frontend
 
-`React`
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 
 ### Databases
 
-`SQL` `MySQL` `MongoDB`
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
 
 ### Scripting
 
-`Bash` `PowerShell`
+<img src="https://skillicons.dev/icons?i=bash,powershell" />
 
-### DevOps
+### DevOps & Infrastructure
 
-`Docker` `Git` `GitHub`
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 
-### AI / Computer Vision
+### AI / Machine Learning
 
-`OpenCV` `PyTorch`
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
 
 </div>
 
@@ -193,21 +208,33 @@ Windows monitoring agent designed to provide visibility into running processes a
 
 # 📚 Currently Learning
 
+<div align="center">
+
 ### 🛡️ Cybersecurity
 
-`Blue Team Fundamentals` · `Security Monitoring` · `Network Security` · `Threat Detection` · `Incident Response` · `Log Analysis`
+<img src="https://skillicons.dev/icons?i=linux" />
+
+`Blue Team` · `Security Monitoring` · `Network Security` · `Threat Detection` · `Incident Response` · `Log Analysis`
 
 ### 🐧 Systems
 
-`Linux Administration` · `Windows Internals` · `Bash` · `PowerShell` · `Process Monitoring`
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,windows" />
+
+`Linux Administration` · `Windows Internals` · `Process Monitoring`
 
 ### ☁️ Infrastructure
 
-`Docker` · `Cloud Fundamentals` · `Secure Deployment` · `Container Security`
+<img src="https://skillicons.dev/icons?i=docker,aws" />
+
+`Cloud Fundamentals` · `Secure Deployment` · `Container Security`
 
 ### 💻 Development
 
+<img src="https://skillicons.dev/icons?i=python,fastapi,javascript,react,mysql,git,github" />
+
 `Python` · `FastAPI` · `JavaScript` · `React` · `SQL` · `REST APIs` · `Git/GitHub`
+
+</div>
 
 ---
 
@@ -215,8 +242,16 @@ Windows monitoring agent designed to provide visibility into running processes a
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/)
+<a href="https://leetcode.com/">
+<img src="https://skillicons.dev/icons?i=leetcode" />
+</a>
+
+  
+
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge\&logo=codechef\&logoColor=white)](https://www.codechef.com/)
+
+  
+
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge\&logo=hackerrank\&logoColor=black)](https://www.hackerrank.com/)
 
 </div>
@@ -245,8 +280,15 @@ Windows monitoring agent designed to provide visibility into running processes a
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+   
+
+<a href="https://linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
 
 </div>
 
@@ -258,19 +300,11 @@ Windows monitoring agent designed to provide visibility into running processes a
 
 **Build securely. Monitor continuously. Automate intelligently.**
 
-I believe security should be considered throughout the lifecycle of a system —
+Security should be considered throughout the lifecycle of a system —
 from **development and deployment to monitoring and incident response.**
 
 <br>
 
 **Cybersecurity · Software Engineering · Automation · AI**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=anishrajb21&style=flat-square&color=blue" alt="Profile views"/>
 
 </div>
